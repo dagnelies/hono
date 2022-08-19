@@ -1,0 +1,12 @@
+{
+  "name": "bun-benchmark",
+  "version": "0.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@nbit/bun": "^0.7.0",
+    "baojs": "^0.1.3",
+    "hyperbun": "^0.4.4",
+    "kingworld": "^0.0.0-experimental.22"
+  }
+}
